@@ -20,7 +20,6 @@ const KeyFormat all_formats[] = {
      .macs = 4,
      .clearance = 3},
 
-const KeyFormat all_formats[] = {
     {.manufacturer = "Kwikset",
      .format_name = "KW5",
      .format_link = "https://lsamichigan.org/Tech/Kwikset_KeySpecs.pdf",
